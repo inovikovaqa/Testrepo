@@ -1,5 +1,3 @@
-utesting line
-atesting line
 commit test
 untesting file
 456
