@@ -3,7 +3,7 @@ new commit test
 =======
 old commit test
 >>>>>>> 4d6f8cb7cf1d85859399671a4bdf4c43bf00444e
-untesting file
+untesting file update
 456
 789.
 Add Line
